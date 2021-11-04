@@ -1,6 +1,6 @@
 ![Banner](./imagenes/banner.png)
 
-# PROYECTO 1: Clonación de Google
+# PROYECTO 1: Clonación de Google con HTML y CSS
 
 ## **ÍNDICE**
 
@@ -16,15 +16,7 @@
 
 ## 1. Intro
 
-Los sitios web estáticos han crecido en popularidad estos últimos años. 
-
-Existen muchas aplicaciones como [Wix](https://wix.com) o [Squarespace](https://squarespace.com) que han aprovechado este crecimiento debido a la gran necesidad de empresas introduciéndose a Internet para presentar sus productos al mundo.
-
-Sin embargo, hay un segmento que necesita mucha personalización, ya sea porque más adelante incluirá un sistema de registro, un área para clientes, etc. 
-
-Es aquí donde es recomendable construirlo sin usar terceros. 
-
-Comenzamos a trabajar con tu primer proyecto, una página web estática.
+HTML trabaja de la mano con CSS para crear las páginas web que usamos todos los días en el navegador. Incluso, este sitio web en donde estás viendo este contenido está construido con HTML y CSS (junto con otros elementos que conocerás más adelante). Para este aplicar tus conocimientos aprendidos 
 
 ****
 
