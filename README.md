@@ -1,6 +1,6 @@
 ![Banner](./imagenes/banner.png)
 
-# PROYECTO 1: Landing de Negocio
+# PROYECTO 1: Clonación de Google
 
 ## **ÍNDICE**
 
