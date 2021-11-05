@@ -9,8 +9,6 @@
 * [3. ¿Qué construirás?](#3-qu%C3%A9-construir%C3%A1s)
 * [4. Objetivos de Aprendizaje](#4-objetivos-de-aprendizaje)
 * [5. Requisitos](#5-requisitos-y-entregables)
-* [6. Criterios de evaluación](#6-criterios-de-evaluaci%C3%B3n)
-* [7. Entregas](#7-entregas)
 
 ****
 
