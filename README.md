@@ -21,7 +21,7 @@ HTML trabaja de la mano con CSS para crear las páginas web que usamos todos los
 
 ## 2. Demo
 
-Puedes entrar a ver el demo en este vínculo: https://ucamp.team/
+Puedes entrar a ver el demo en este vínculo: https://dazzling-nightingale-01ce86.netlify.app
 
 La idea es inspirarte con esta demostración de proyecto. 
 
@@ -63,9 +63,8 @@ El objetivo principal de este proyecto es desarrollar una interfaz utilizando HT
 
 Aplicarás:
 
-- Prototipado simple (baja findelidad) que mostrará tu plan de desarrollo. Puedes utilizar un dibujo a lápiz, que muestre la página que vas a construir.
 - Etiquetas estándar HTML5.
-- CSS, incluyendo técnicas Flexbox, CSS Grids y Responsive Web Design.
+- Estilos con CSS
 
 ****
 
