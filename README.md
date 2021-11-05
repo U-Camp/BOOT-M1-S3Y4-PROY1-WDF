@@ -75,23 +75,3 @@ Realizarse de manera individual
 
 ### ENTREGA A TIEMPO
 - [ ] Entregar a tiempo el proyecto.
-
-## 6. Criterios de evaluación
-
-A partir de los requisitos, tu % estará definido de esta forma:
-
-| ÁREA       | % DEL TOTAL |
-| ------------- |:-------------:|
-| UI      | 70%     |
-| CONTROL DE VERSIONES      | 5%     |
-| DESPLIEGUE | 10%      |
-| ENTREGA A TIEMPO | 15%      |
-
-****
-
-## 7. Entregas
-
-- **Definición de fechas.** Habla con tus coaches sobre el periodo de entregas del proyecto.
-
-- **Cumple con los requisitos y entregables.** Debes verificar que cumplas con todo lo que listamos en esta sección y tomes en cuenta el tiempo establecido para ello, ya que de esto depende que obtengas tu insignia.
-
