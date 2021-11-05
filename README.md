@@ -25,7 +25,7 @@ Puedes entrar a ver el demo en este vínculo: https://dazzling-nightingale-01ce8
 
 La idea es inspirarte con esta demostración de proyecto. 
 
-**No construirás el mismo**, sin embargo, puedes examinar cómo fue construido para establecer tu estrategia.
+**¡Quizá no te quede idéntico o quizá te quede mucho mejor que nuestro demo🤩**, utiliza tu destreza y aprendizaje para que demuestres que tu futuro es ser un(a) programador(a) web.👩🏻💻👦🏻
 
 ![imagen]("./../demo/demo.png)
 
@@ -34,26 +34,15 @@ La idea es inspirarte con esta demostración de proyecto.
 
 ## 3. ¿Qué construirás?
 
-Este proyecto está enfocado en construir una página "landing" para un negocio.
+Este proyecto está enfocado en construir la interfaz estática de Google.
 
-Se te pide que sea una sola página que permita establecer:
-
-- Mensajes del negocio (¿qué se vende?)
-- Breve catálogo de productos
-- Vista adaptable a móviles
-- Las secciones siguientes:
+Se te pide que sea una sola página que contenga las secciones siguientes:
   - **a. Header**
-    Sección que involucra el logo y las áreas principales del sitio.
-  - **b. Jumbotron**
-    Sección de presentación del producto al usuario. Debe de incluir su título, descripción y un elemento para introducir tu correo.
-  - **c. Blog o catálogo**
-    Sección para mostrar los artículos del sitio web. O en su caso, artículos de catálogo de productos
-  - **d. Adicionales**
-    Secciones diversas que puedes agregar para dar mayor valor a tu sitio.
-  - **e. Footer**
-    Sección que incluye todas las áreas del sitio, incluyendo redes sociales.
-
-![imagen]("./../demo/layout.png)
+    Sección que involucra la foto del perfil, iconos, logo de Google y las áreas principales del sitio.
+  - **b. main**
+    Sección del contenedor para los elementos centrales de la página. 
+  - **c. Footer**
+    Sección que incluye hipervínculos al final de la página.
 
 ****
 
@@ -77,20 +66,12 @@ Usa esta lista para saber los requisitos mínimos del proyecto:
 Realizarse de manera individual
 
 ### UI
-- [ ] Desarrollar prototipado simple.
 - [ ] Aplicar en todo el sitio HTML semántico de estándar no.5 (HTML5).
 - [ ] Aplicar tipos de selectores en CSS.
-- [ ] Sección `Header`, `Jumbotron`, `footer`
-- [ ] Sección de registro de usuario
-- [ ] Sección artículos o catálogo
-- [ ] Responsive Web Design (Vista en móviles con uso de media queries)
+- [ ] Sección `Header`, `main`, `footer`
 
 ### CONTROL DE VERSIONES
-- [ ] Crear un repositorio en GitHub y realizar mínimo 5 "commits" en tu repositorio.
-
-### DESPLIEGUE
-- [ ] Crear una URL para compartir (puedes utilizar Netlify o GitHub Pages)
-- [ ] Colocar descripción dentro del repositorio
+- [ ] Crear un repositorio en GitHub y realizar mínimo 2 "commits" en tu repositorio.
 
 ### ENTREGA A TIEMPO
 - [ ] Entregar a tiempo el proyecto.
