@@ -1,6 +1,6 @@
 ![Banner](./imagenes/banner.png)
 
-# PROYECTO 1: Clonación de Google con HTML y CSS
+# PROYECTO 1: Clonación de la Interfaz de Google con HTML y CSS
 
 ## **ÍNDICE**
 
