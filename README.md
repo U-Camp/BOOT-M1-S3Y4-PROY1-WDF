@@ -1,6 +1,6 @@
 ![Banner](./imagenes/banner.png)
 
-# PROYECTO 1: Clonación de la Interfaz de Google con HTML y CSS
+# WDF M3 S3 Y S4: Clonación de la Interfaz de Google con HTML y CSS
 
 ## **ÍNDICE**
 
